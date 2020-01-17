@@ -787,8 +787,8 @@
       <tr>
         <td colspan="4">
           <p>
-            This determines the interpretation of multiple <a href="#enableWhen">enableWhen</a> elements.  If set to 'all', then the item will only be enabled
-            if all the enableWhen conditions are met.  If set to 'any', the item will be enabled if any of the enableWhen conditions are met.
+            If set to 'all', then the item will only be enabled if all the enableWhen conditions are met.  If set to 'any', the item will be enabled if
+            any of the enableWhen conditions are met.
           </p>
         </td>
       </tr>
